@@ -1,0 +1,62 @@
+/* NavBar */
+"HomeTitle" = "Garden";
+"ReminderTitle" = "Reminder";
+"AddTitle" = "Add";
+"SearchTitle" = "Search";
+"SettingsTitle" = "Settings";
+
+"ChangeLanguage" = "Change language";
+"MyGarden" = "My garden";
+
+/* NotFound */
+"NoPlants" = "";
+"PlantNotFound" = "Oops! Looks like you don’t have any plants.";
+
+/* WelcomePage */
+"WelcomeTitle" = "WELCOME TO PLANT PLANNER";
+"WelcomeDescription" = "Welcome to the app that helps you keep your flowers alive and thriving!";
+
+"GreenThumbSecrets" = "SMART FLOWER PLACEMENT";
+"GreenThumbDescription" = "See how many flowers fit your pot! Enter size and type for perfect arrangements.";
+
+"CareForYourPlants" = "REAL-TIME UPDATES";
+"CareDescription" = "We’ll remind you to take care of your flowers!";
+
+"GetStarted" = "Get started";
+
+/* SettingsPage */
+"SettingsTitle" = "Settings";
+"Language" = "Language";
+"Theme" = "Theme";
+
+/* SearchPage */
+"SearchTitle" = "Search";
+"SearchPlaceholder" = "Search for plant";
+
+/* SearchPage */
+"SearchTitle" = "Search";
+"SearchPlaceholder" = "Search by plant name";
+
+/* CreatePage */
+"AddNewPlant" = "Add new plant";
+"PlantName" = "Plant name";
+"PlantingDate" = "Planting date";
+"Select" = "Select";
+"PlantedInVase" = "Planted in vase";
+"Done" = "Done";
+"Writing" = "Writing...";
+
+/* ReminderPage */
+"WateringReminderTitle" = "Water the Plants!";
+
+"WateringFlowerReminder1" = "Time to water your beautiful flower!";
+"WateringFlowerReminder2" = "Don't forget to water your flower!";
+"WateringFlowerReminder3" = "Your flower needs water, take care of it!";
+"WateringFlowerReminder4" = "It's watering time for your lovely flower!";
+"WateringFlowerReminder5" = "Water your flower and keep it blooming!";
+"WateringFlowerReminder6" = "Your flower is thirsty! Water it now!";
+"WateringFlowerReminder7" = "Nourish your flower with some water!";
+"WateringFlowerReminder8" = "Time for some flower hydration!";
+"WateringFlowerReminder9" = "Make sure to water your flower today!";
+
+"WateringGenericReminder" = "Don't forget to water your plant!";

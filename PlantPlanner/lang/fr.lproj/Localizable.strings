@@ -1,0 +1,67 @@
+/* NavBar */
+"HomeTitle" = "Jardin";
+"ReminderTitle" = "Rappels";
+"AddTitle" = "Ajouter";
+"SearchTitle" = "Chercher";
+"SettingsTitle" = "Paramètres";
+
+"ChangeLanguage" = "Changer de langue";
+"MyGarden" = "Il mio giardino";
+
+
+/* NotFound */
+"NoPlants" = "";
+"PlantNotFound" = "Oups ! Il semble que vous n'ayez pas de plantes.";
+
+/* About Page */
+"AboutUs" = "À propos de nous";
+"RoleCoderPM" = "Développeur | Chef de projet";
+"RoleCoder" = "Développeur";
+"RoleDesigner" = "Designer";
+"RoleDataAnalyst" = "Analyste de données";
+
+/* Welcome Page */
+"WelcomeTitle" = "BIENVENUE SUR PLANT PLANNER";
+"WelcomeDescription" = "Bienvenue dans l'application qui vous aide à garder vos fleurs vivantes et prospères !";
+
+"GreenThumbSecrets" = "LES SECRETS DU POUCE VERT";
+"GreenThumbDescription" = "Découvrez les secrets pour cultiver des plantes saines et robustes avec des conseils pratiques.";
+
+"CareForYourPlants" = "PRENEZ SOIN DE VOS PLANTES";
+"CareDescription" = "Ne vous inquiétez pas, nous vous rappellerons de choyer vos plantes !";
+
+"GetStarted" = "Commencez maintenant";
+
+/* SettingsPage */
+"SettingsTitle" = "Paramètres";
+"Language" = "Langue";
+"Theme" = "Thème";
+
+/* SearchPage */
+"SearchTitle" = "Chercher";
+"SearchPlaceholder" = "Recherchez par nom de plante";
+
+/* CreatePage */
+"AddNewPlant" = "Ajouter nouvelle plante";
+"PlantName" = "Nom de la plante";
+"PlantingDate" = "Date de plantation";
+"Select" = "Sélectionner";
+"PlantedInVase" = "Planté dans un vase";
+"Done" = "Terminé";
+"Writing" = "En cours...";
+
+/* ReminderPage */
+"WateringReminderTitle" = "Arrosez les plantes !";
+
+"WateringFlowerReminder1" = "Il est temps d'arroser votre belle fleur !";
+"WateringFlowerReminder2" = "N'oubliez pas d'arroser votre fleur !";
+"WateringFlowerReminder3" = "Votre fleur a besoin d'eau, prenez soin d'elle !";
+"WateringFlowerReminder4" = "Il est temps d'arroser votre adorable fleur !";
+"WateringFlowerReminder5" = "Arrosez votre fleur et continuez à la faire fleurir !";
+"WateringFlowerReminder6" = "Votre fleur a soif ! Arrosez-la maintenant !";
+"WateringFlowerReminder7" = "Nourrissez votre fleur avec de l'eau !";
+"WateringFlowerReminder8" = "Il est temps d'hydrater votre fleur !";
+"WateringFlowerReminder9" = "Assurez-vous d'arroser votre fleur aujourd'hui !";
+
+"WateringGenericReminder" = "N'oubliez pas d'arroser votre plante !";
+

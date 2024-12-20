@@ -1,0 +1,58 @@
+/* NavBar */
+"HomeTitle" = "Giardino";
+"ReminderTitle" = "Promemoria";
+"AddTitle" = "Aggiungi";
+"SearchTitle" = "Cerca";
+"SettingsTitle" = "Impostazioni";
+
+"ChangeLanguage" = "Cambia Lingua";
+"MyGarden" = "Il mio giardino";
+
+/* NotFound */
+"NoPlants" = "";
+"PlantNotFound" = "Ops! Sembra che tu non abbia piante.";
+
+/* WelcomePage */
+"WelcomeTitle" = "BENVENUTO IN PLANT PLANNER";
+"WelcomeDescription" = "Benvenuto nell'app che ti aiuta a mantenere i tuoi fiori vivi e rigogliosi!";
+
+"GreenThumbSecrets" = "I SEGRETI DEL POLLICE VERDE";
+"GreenThumbDescription" = "Scopri i segreti per far crescere piante sane e forti con consigli pratici.";
+
+"CareForYourPlants" = "CURATI DELLE TUE PIANTE";
+"CareDescription" = "Non preoccuparti, ti ricorderemo di coccolare le tue piante!";
+
+"GetStarted" = "Comincia ora";
+
+/* SettingsPage */
+"SettingsTitle" = "Impostazioni";
+"Language" = "Lingua";
+"Theme" = "Tema";
+
+/* SearchPage */
+"SearchTitle" = "Cerca";
+"SearchPlaceholder" = "Cerca per nome della pianta";
+
+/* CreatePage */
+"AddNewPlant" = "Aggiungi nuova pianta";
+"PlantName" = "Nome della pianta";
+"PlantingDate" = "Data di piantagione";
+"Select" = "Seleziona";
+"PlantedInVase" = "Piantato in vaso";
+"Done" = "Fatto";
+"Writing" = "Scrivendo...";
+
+/* ReminderPage */
+"WateringReminderTitle" = "Annaffia le piante!";
+
+"WateringFlowerReminder1" = "È ora di annaffiare il tuo bellissimo fiore!";
+"WateringFlowerReminder2" = "Non dimenticare di annaffiare il tuo fiore!";
+"WateringFlowerReminder3" = "Il tuo fiore ha bisogno di acqua, prenditene cura!";
+"WateringFlowerReminder4" = "È tempo di annaffiare il tuo fiore adorabile!";
+"WateringFlowerReminder5" = "Annaffia il tuo fiore e fallo fiorire!";
+"WateringFlowerReminder6" = "Il tuo fiore ha sete! Annaffialo ora!";
+"WateringFlowerReminder7" = "Nutrire il tuo fiore con un po' d'acqua!";
+"WateringFlowerReminder8" = "È tempo di idratare il fiore!";
+"WateringFlowerReminder9" = "Assicurati di annaffiare il tuo fiore oggi!";
+
+"WateringGenericReminder" = "Non dimenticare di annaffiare la tua pianta!";
